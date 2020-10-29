@@ -38,8 +38,29 @@ p, a{
     line-height: 1.3em;
 }
 
+.navbar-brand img{
+    width: 40px;
+}
+section{
+    border: 1px solid red;
+}
+.px{
+    padding-left: 45px;
+    padding-right: 45px;
+}
+.goal{
+    padding: 60px;
+}
+.goal h2{
+    line-height: 1em;
+}
+.goal img{
+    width: 100%;
+}
+
+
+
  /* Footer Section */
- 
 footer p{
     font-size: 14px;
 }
